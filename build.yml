@@ -1,5 +1,4 @@
-name: Build APK
-
+.github/workflows/build.yml/
 on:
   push:
     branches: [main, master]
